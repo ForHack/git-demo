@@ -7,4 +7,8 @@ export class TodoService {
   updateItem() {
 
   }
+
+  deleteItem(id: number) {
+
+  }
 }
