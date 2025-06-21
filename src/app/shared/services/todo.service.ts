@@ -5,4 +5,9 @@ import {Injectable} from '@angular/core';
 })
 export class TodoService {
   // SOMETHING MISSED
+
+
+  method() {
+
+  }
 }
