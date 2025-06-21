@@ -10,4 +10,8 @@ export class TodoService {
   method() {
 
   }
+
+  deleteItem(id: number) {
+
+  }
 }
